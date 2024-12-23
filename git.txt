@@ -4,3 +4,6 @@ re
 rare
 
 re
+tr
+ht
+hs
